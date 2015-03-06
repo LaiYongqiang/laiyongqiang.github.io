@@ -12,11 +12,11 @@ category: blog
 
 ## 2.创建代码仓
 在这一步，我们可以还可以参考这位雨知大大的博文[通过GitHub Pages建立个人站点(详细步骤)],在这个阶段主要步骤以及是：
-  >- clone [beiyuu.github.com][]工程
-  >- 在代码仓的设置里面![Github_Settings](http://ylai.qiniudn.com/bloggithub_settings.png)将代码仓的名字改为为：`username`.github.io 或者`username`.github.com 
-  >- 在项目的settings里面查看是否已经显示`Your site is published at http://username.github.io.`,设置后到生效需要一段时间
-  ![Published](http://ylai.qiniudn.com/blogpublished.png)
-  >- 打开浏览器，通过http://`username`.github.`io`或者http://`username`.github.`com`访问你的博客
+- clone [beiyuu.github.com][]工程
+- 在代码仓的设置里面![Github_Settings](http://ylai.qiniudn.com/bloggithub_settings.png?imageView/2/w/640/h/960)将代码仓的名字改为为：`username`.github.io 或者`username`.github.com 
+- 在项目的settings里面查看是否已经显示`Your site is published at http://username.github.io.`,设置后到生效需要一段时间
+  ![Published](http://ylai.qiniudn.com/blogpublished.png?? imageView2/1/q/85|watermark/2/text/bGFpeW9uZ3FpYW5nLmdpdGh1Yi5pbw==/font/5a6L5L2T/fontsize/500/fill/I0VGRUZFRg==/dissolve/100/gravity/SouthEast/dx/10/dy/10) 
+- 打开浏览器，通过http://`username`.github.`io`或者http://`username`.github.`com`访问你的博客
  
 ## 3. 修改代码
 在这一步，主要的工作有：
